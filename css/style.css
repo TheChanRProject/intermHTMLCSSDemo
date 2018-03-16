@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-image: url(../image.jpeg);
+  background-size: cover;
+  padding-left: 100px;
+}
+h1 {
+  padding-top: 210px;
+  padding:
+}
+
+.circleOne {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  background-color: rgba(255, 106, 0, 0.75);
+  padding-top: 30px;
+  position: sticky;
+  display: inline-block;
+  border: 5px solid silver;
+}
+
+.line {
+  border: 5px solid silver;
+  display: inline-block;
+  padding-bottom: 140px;
+  margin: 60px;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
